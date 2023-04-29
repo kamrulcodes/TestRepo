@@ -1,4 +1,4 @@
-# What is the default branch created in new github repo?
+# What is the default branch created in a new github repo?
 
 **Ans: main.**
 
